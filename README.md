@@ -8,6 +8,9 @@
 *System-on-a-chip:* Philips OneChipPDA.  
 *Assembler:* Sharp LH5801, Zilog Z80, Intel(8048, 80x51, 80x86), 6502, PIC, Motorola(6800, 68000), MiPS 3000.
 
+<p>
+<img src="https://img.shields.io/badge/Python-%23887788?logo=python&logoColor=white&style=flat" alt="Python">
+</p>
 <!--
 **lordofscripts/lordofscripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
