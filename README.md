@@ -1,4 +1,12 @@
-## Hi there 👋
+*Main human languages:* Spanish, English, Dutch ⚡.  
+*Other human languages:* German, Portuguese, Italian.
+*4GL:* Uniface.  
+*Programming:* Basic, Fortran, **Pascal**, PL/I, C, C++, **C#**, Java, **Go**.  
+*Scripting:* Perl, PowerShell, **PHP**, Javascript, Postscript, Python.  
+*Other:* SDL, SQL, HTML, XML.  
+*Shell languages:* DOS Batch, Korn, Csh, Bash.  
+*System-on-a-chip:* Philips OneChipPDA.  
+*Assembler:* Sharp LH5801, Zilog Z80, Intel(8048, 80x51, 80x86), 6502, PIC, Motorola(6800, 68000), MiPS 3000.
 
 <!--
 **lordofscripts/lordofscripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
