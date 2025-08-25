@@ -27,6 +27,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-%2523887788?style=plastic&logo=python&logoColor=white&labelColor=grey&color=blue">
   <br/>
 </p>
+
+![Become a Diamond Sponsor](./diamond_sponsor.png)
 <!--
 **lordofscripts/lordofscripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
